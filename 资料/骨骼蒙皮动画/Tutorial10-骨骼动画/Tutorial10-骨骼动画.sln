@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tutorial10-骨骼动画", "Tutorial10-骨骼动画.vcxproj", "{0FDD83FA-9B09-4AFC-B7C5-ABA595BB6E17}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "..\ConsoleApplication1\ConsoleApplication1.vcxproj", "{0E2C86B8-CFEB-48E8-B3E2-A531D1661C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FDD83FA-9B09-4AFC-B7C5-ABA595BB6E17}.Debug|x64.ActiveCfg = Debug|Win32
+		{0FDD83FA-9B09-4AFC-B7C5-ABA595BB6E17}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FDD83FA-9B09-4AFC-B7C5-ABA595BB6E17}.Debug|x86.Build.0 = Debug|Win32
+		{0FDD83FA-9B09-4AFC-B7C5-ABA595BB6E17}.Release|x64.ActiveCfg = Release|Win32
+		{0FDD83FA-9B09-4AFC-B7C5-ABA595BB6E17}.Release|x86.ActiveCfg = Release|Win32
+		{0FDD83FA-9B09-4AFC-B7C5-ABA595BB6E17}.Release|x86.Build.0 = Release|Win32
+		{0E2C86B8-CFEB-48E8-B3E2-A531D1661C40}.Debug|x64.ActiveCfg = Debug|x64
+		{0E2C86B8-CFEB-48E8-B3E2-A531D1661C40}.Debug|x64.Build.0 = Debug|x64
+		{0E2C86B8-CFEB-48E8-B3E2-A531D1661C40}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E2C86B8-CFEB-48E8-B3E2-A531D1661C40}.Debug|x86.Build.0 = Debug|Win32
+		{0E2C86B8-CFEB-48E8-B3E2-A531D1661C40}.Release|x64.ActiveCfg = Release|x64
+		{0E2C86B8-CFEB-48E8-B3E2-A531D1661C40}.Release|x64.Build.0 = Release|x64
+		{0E2C86B8-CFEB-48E8-B3E2-A531D1661C40}.Release|x86.ActiveCfg = Release|Win32
+		{0E2C86B8-CFEB-48E8-B3E2-A531D1661C40}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7E48E3D-F30E-478E-8995-43F2DA3E9823}
+	EndGlobalSection
+EndGlobal
